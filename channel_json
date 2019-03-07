@@ -1,4 +1,8 @@
 https://www.di.fm/_papi/v1/di/currently_playing
+https://www.di.fm/tracks/['track']['id']
++++++++++++++++++++++++++++++++++++++++++++++++++++
+"url":"//(.*?)"
+"url":"//([^"]+)"
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 json[0]['channel_id']
 json[0]['channel_key']
