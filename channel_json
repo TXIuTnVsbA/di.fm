@@ -1,0 +1,98 @@
+https://www.di.fm/_papi/v1/di/currently_playing
++++++++++++++++++++++++++++++++++++++++++++++++++++
+json[0]['channel_id']
+json[0]['channel_key']
+json[0]['track']['display_artist']
+json[0]['track']['display_title']
++++++++++++++++++++++++++++++++++++++++++++++++++++
+00s Club Hits: {channel_id: 324, channel_key: "00sclubhits", track: {display_artist: "X-Rate",…}}
+Ambient: {channel_id: 12, channel_key: "ambient",…}
+Atmospheric Breaks: {channel_id: 403, channel_key: "atmosphericbreaks",…}
+Bass & Jackin' House: {channel_id: 290, channel_key: "bassnjackinhouse",…}
+Bassline: {channel_id: 289, channel_key: "bassline",…}
+Big Beat: {channel_id: 325, channel_key: "bigbeat",…}
+Big Room House: {channel_id: 209, channel_key: "bigroomhouse",…}
+Breaks: {channel_id: 15, channel_key: "breaks",…}
+Chill & Tropical House: {channel_id: 400, channel_key: "chillntropicalhouse",…}
+ChillHop: {channel_id: 224, channel_key: "chillhop",…}
+Chillout: {channel_id: 3, channel_key: "chillout",…}
+Chillout Dreams: {channel_id: 68, channel_key: "chilloutdreams",…}
+Chillstep: {channel_id: 275, channel_key: "chillstep",…}
+Classic EuroDance: {channel_id: 69, channel_key: "classiceurodance",…}
+Classic EuroDisco: {channel_id: 183, channel_key: "classiceurodisco",…}
+Classic Trance: {channel_id: 90, channel_key: "classictrance",…}
+Classic Vocal Trance: {channel_id: 125, channel_key: "classicvocaltrance",…}
+Club Dubstep: {channel_id: 177, channel_key: "clubdubstep",…}
+Club Sounds: {channel_id: 70, channel_key: "club",…}
+Dark DnB: {channel_id: 181, channel_key: "darkdnb",…}
+Dark PsyTrance: {channel_id: 346, channel_key: "darkpsytrance",…}
+Deep House: {channel_id: 174, channel_key: "deephouse",…}
+Deep Nu-Disco: {channel_id: 137, channel_key: "deepnudisco",…}
+Deep Tech: {channel_id: 182, channel_key: "deeptech",…}
+Detroit House & Techno: {channel_id: 353, channel_key: "detroithousentechno",…}
+Disco House: {channel_id: 92, channel_key: "discohouse",…}
+DJ Mixes: {channel_id: 10, channel_key: "djmixes",…}
+Downtempo Lounge: {channel_id: 180, channel_key: "downtempolounge",…}
+Drum and Bass: {channel_id: 13, channel_key: "drumandbass",…}
+Drumstep: {channel_id: 291, channel_key: "drumstep",…}
+Dub: {channel_id: 348, channel_key: "dub",…}
+Dub Techno: {channel_id: 355, channel_key: "dubtechno",…}
+Dubstep: {channel_id: 91, channel_key: "dubstep",…}
+EDM Hits: {channel_id: 474, channel_key: "edm",…}
+Electro House: {channel_id: 56, channel_key: "electro",…}
+Electro Swing: {channel_id: 327, channel_key: "electroswing",…}
+Electronic Pioneers: {channel_id: 280, channel_key: "electronicpioneers",…}
+Electropop: {channel_id: 286, channel_key: "electropop",…}
+Epic Trance: {channel_id: 175, channel_key: "epictrance",…}
+EuroDance: {channel_id: 6, channel_key: "eurodance",…}
+Funky House: {channel_id: 58, channel_key: "funkyhouse",…}
+Future Bass: {channel_id: 424, channel_key: "futurebass", track: {display_artist: "The Chainsmokers & Tritonal",…}}
+Future Garage: {channel_id: 292, channel_key: "futuregarage",…}
+Future Synthpop: {channel_id: 53, channel_key: "futuresynthpop",…}
+Gabber: {channel_id: 16, channel_key: "gabber",…}
+Glitch Hop: {channel_id: 198, channel_key: "glitchhop",…}
+Goa-Psy Trance: {channel_id: 8, channel_key: "goapsy",…}
+Hands Up: {channel_id: 176, channel_key: "handsup",…}
+Hard Dance: {channel_id: 5, channel_key: "harddance",…}
+Hard Techno: {channel_id: 276, channel_key: "hardtechno",…}
+Hardcore: {channel_id: 9, channel_key: "hardcore",…}
+Hardstyle: {channel_id: 60, channel_key: "hardstyle",…}
+House: {channel_id: 4, channel_key: "house",…}
+Indie Beats: {channel_id: 404, channel_key: "indiebeats",…}
+Indie Dance: {channel_id: 351, channel_key: "indiedance",…}
+Jazz House: {channel_id: 349, channel_key: "jazzhouse",…}
+Jungle: {channel_id: 293, channel_key: "jungle",…}
+Latin House: {channel_id: 117, channel_key: "latinhouse",…}
+Liquid DnB: {channel_id: 105, channel_key: "liquiddnb",…}
+Liquid Dubstep: {channel_id: 184, channel_key: "liquiddubstep",…}
+Liquid Trap: {channel_id: 352, channel_key: "liquidtrap",…}
+LoFi Hip-Hop: {channel_id: 492, channel_key: "lofihiphop",…}
+Lounge: {channel_id: 11, channel_key: "lounge",…}
+Mainstage: {channel_id: 210, channel_key: "mainstage",…}
+Melodic Progressive: {channel_id: 402, channel_key: "melodicprogressive",…}
+Minimal: {channel_id: 59, channel_key: "minimal",…}
+Nightcore: {channel_id: 294, channel_key: "nightcore",…}
+Nu Disco: {channel_id: 295, channel_key: "nudisco",…}
+Oldschool Acid: {channel_id: 124, channel_key: "oldschoolacid",…}
+Oldschool House: {channel_id: 104, channel_key: "oldschoolhouse",…}
+Oldschool Rave: {channel_id: 296, channel_key: "oldschoolrave",…}
+Oldschool Techno & Trance : {channel_id: 14, channel_key: "classictechno",…}
+Progressive: {channel_id: 7, channel_key: "progressive",…}
+Progressive Psy: {channel_id: 178, channel_key: "progressivepsy",…}
+Psybient: {channel_id: 285, channel_key: "psybient",…}
+PsyChill: {channel_id: 67, channel_key: "psychill",…}
+Russian Club Hits: {channel_id: 213, channel_key: "russianclubhits",…}
+Soulful House: {channel_id: 47, channel_key: "soulfulhouse",…}
+Space Dreams: {channel_id: 64, channel_key: "spacemusic",…}
+Synthwave: {channel_id: 438, channel_key: "synthwave",…}
+Tech House: {channel_id: 66, channel_key: "techhouse",…}
+Techno: {channel_id: 36, channel_key: "techno",…}
+Trance: {channel_id: 1, channel_key: "trance",…}
+Trap: {channel_id: 230, channel_key: "trap",…}
+Tribal House: {channel_id: 57, channel_key: "tribalhouse",…}
+UMF Radio: {channel_id: 215, channel_key: "umfradio",…}
+Underground Techno: {channel_id: 288, channel_key: "undergroundtechno", track: {display_artist: "Joton",…}}
+Vocal Chillout: {channel_id: 142, channel_key: "vocalchillout",…}
+Vocal House: {channel_id: 445, channel_key: "vocalhouse",…}
+Vocal Lounge: {channel_id: 278, channel_key: "vocallounge",…}
+Vocal Trance: {channel_id: 2, channel_key: "vocaltrance", track: {display_artist: "Adiva feat. Vicky Fee",…}}
